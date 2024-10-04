@@ -1,2 +1,2 @@
-# Project-1C-
+# Project-1C++
 stone - paper - scissor
